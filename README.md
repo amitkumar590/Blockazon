@@ -1,4 +1,4 @@
-# Dappazon
+# Blockazon
 
 ## Technology Stack & Tools
 
